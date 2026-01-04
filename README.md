@@ -54,3 +54,24 @@ Ich verwende [GitHub-Workflows](https://eleventy-notes.sandroroth.com/n/deployme
 GitHub Pages stellt den Webserver und die Domain meiner Webseite automatisch bereit ... hierum muß ich mich schon nicht kümmern. Ich kann dann per https://fls15.github.io/roball-website/ zugreifen.
 
 > später werde ich das mal auf meiner eigenen Domain hosten - das ist mit GitHub Pages auch kein Problem
+
+# Markdown
+
+## Snippets
+
+### Link in neuen Tab öffnen
+
+Die üblichen Markdown Links
+
+```md
+[Instagram](https://www.instagram.com/p/DQka2SXDZmq/)
+```
+
+öffnen den Link im aktuellen Tab ... es gibt keine Möglichkeit, den Link in einem neuen Tab zu öffnen. Zur Lösung muss man HTML-Syntax verwenden:
+
+```html
+<a href="https://www.instagram.com/p/DQka2SXDZmq/" target="_blank" rel="noopener noreferrer">Instagram</a>
+```
+
+## Specifics
+

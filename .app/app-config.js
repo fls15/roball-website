@@ -92,7 +92,8 @@ function applyDefaults(custom) {
       ...custom.tags,
     },
     notes: {
-      pathPrefix: "/n",
+      //pathPrefix: "/n",   default value
+      pathPrefix: "/",
       ...custom.notes,
     },
   };
