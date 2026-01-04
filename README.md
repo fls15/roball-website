@@ -1,0 +1,34 @@
+# Roballs Website
+
+Die Webseite basiert auf
+
+* [11ty (Eleventy)](https://www.11ty.dev/) - ein auf NodeJS basierender Static-Site-Generator (SSG)
+* [Eleventy-Notes Theme von Sandro Roth](https://github.com/rothsandro/eleventy-notes)
+* GitHub Workflows zum Deployment auf GitHub Pages
+* meinem Content
+
+# Static-Site-Generators
+
+... basieren auf einem Templating-Ansatz. HTML-Seiten werden aus Bausteinen zusammengebaut, so dass Redundanzen auf den automatisierten Generierungsprozess verlagert werden - den Maintainer interessiert das nicht.
+
+Der Content wird in Markdown-Syntax (sehr einfach) gepflegt, so dass man mit HTML, CSS und JavaScript in der täglichen Arbeit gar nichts zu tun hat.
+
+Auf diese Weise ergibt sich ein nahezu perfekte Synergie aus einfacher Pflege, schnellen Webseiten und überhapt keine Komplexität beim Hosting (statische Webseiten - keine Datenbank). Ideal für den Use-Case einer Webseite (für einen Shop wäre es nicht geeignet). 
+
+# Getting Started
+
+Ich habe mit diesem [Getting started](https://eleventy-notes.sandroroth.com/n/getting-started/) angefangen. Dabei wird das [GitHub Repository `rothsandro/eleventy-notes`](https://github.com/rothsandro/eleventy-notes) geclont. Es enthält die Dokumentation des Eleventy-Notes-Theme in deploybarer Form (eat-your-own-dogfoot at its best). Nach Entfernung des Contents wie in der _Getting Started_ beschrieben konnte ich meinen eigenen Content einbauen und Erfahrung mit dem Theme und 11ty sammeln.
+
+# Lokales Deployment
+
+```
+cd .app
+npm install
+npm start
+```
+
+Damit wird statischer HTML, CSS und JavaScript Code im `_site`-Unterverzeichnis abgelegt, der dann mit einem Webserver bereitgestellt wird.
+
+Anschliessend kann ich in meinem Browser auf die Webseite zugreifen: http://localhost:8080 
+
+## GitHub Pages Deployment
