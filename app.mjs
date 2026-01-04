@@ -7,6 +7,7 @@ export default defineConfig({
     "A simple, lightweight, and flexible note-taking template for Eleventy.",
   editThisNote: {
     url: "https://github.com/fls15/roball-website/edit/{{branch}}/{{file}}",
+    openInNewTab: true,
   },
   staticAssets: {
     paths: { "public/": "/" },
