@@ -92,7 +92,7 @@ function applyDefaults(custom) {
       ...custom.tags,
     },
     notes: {
-      //pathPrefix: "/n",   default value
+      //pathPrefix: "/n",   default value: https://eleventy-notes.sandroroth.com/n/organizing/files-and-folders/#url-prefix
       pathPrefix: "/",
       ...custom.notes,
     },
