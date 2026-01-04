@@ -24,7 +24,6 @@ Meine selbst verfassten Berichte.
 
 <a href="https://asc-neuenheim.de/2025/09/01/asc-neuenheim-vfb-st-leon-03-ll-rhein-neckar-6-spieltag/" target="_blank" rel="noopener noreferrer">Spielbericht</a>
 
-
 # 15.09.25 - Herren 1 - ASC Neuenheim – RW Rheinau 1:1
 
 <a href="https://asc-neuenheim.de/2025/09/15/asc-neuenheim-rw-rheinau-11-ll-rhein-neckar-8-spieltag/" target="_blank" rel="noopener noreferrer">Spielbericht</a> |

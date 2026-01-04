@@ -22,8 +22,10 @@ Mein größter Erfolg war der Aufstieg in die Verbandsliga in der A-Jugend am <a
 
 ## A-Jugend
 
-* Landesliga: **Platz 1**
-* Verbandsliga: Platz 12
+* Landesliga: <a href="https://www.kicker.de/ama_32571865/spieltag/2023-24" target="_blank" rel="noopener noreferrer">Platz 1 - Aufstieg</a>
+* Verbandsliga: <a href="https://www.kicker.de/ama_62048523/spieltag/2024-25" target="_blank" rel="noopener noreferrer">Platz 11</a>
+* Kreisliga Herren II: <a href="https://www.kicker.de/kreisliga-heidelberg-fb-1/spieltag/2024-25" target="_blank" rel="noopener noreferrer">Platz 12</a>
 
 ## Aktive
 
+* Kreisliga Herren II: <a href="https://www.kicker.de/kreisliga-heidelberg-fb-1/spieltag/2025-26" target="_blank" rel="noopener noreferrer">läuft gerade</a>
