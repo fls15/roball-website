@@ -37,7 +37,7 @@ Anschliessend kann ich in meinem Browser auf die Webseite zugreifen: http://loca
 
 Ich habe das GitHub Repsoitory `public` gemacht, um die GitHub Pages kostenlos nutzen zu können. GitHub-Pages stellen einen von GitHub gehosteten Webserver bereit, auf dem meine Webseite im Internet erreichbar ist.
 
-Ich verwende GitHub-Workflows, um nach einer Änderung am Repository (z. B. Content-Änderungen) automatisch den HTML-Code neu zu generieren und auf die GitHub-Page zu deployen.
+Ich verwende GitHub-Workflows, um nach einer Änderung am Repository (z. B. Content-Änderungen) automatisch den HTML-Code neu zu generieren und auf die GitHub-Page zu deployen. Es dauert knapp eine Minute bis die Änderungen dann online sind.
 
 ## Website Hosting
 
