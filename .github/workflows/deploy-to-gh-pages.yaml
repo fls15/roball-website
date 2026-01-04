@@ -17,7 +17,7 @@ concurrency:
 
 # Needed to deploy to GitHub pages subdomain. (E.g. `your-username.github.io/eleventy-notes/`)
 env:
-  ELEVENTY_NOTES_PATH_PREFIX: "eleventy-notes"
+  ELEVENTY_NOTES_PATH_PREFIX: "roball-website"
 
 jobs:
   setup:

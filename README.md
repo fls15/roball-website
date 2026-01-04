@@ -41,4 +41,6 @@ Ich verwende GitHub-Workflows, um nach einer Änderung am Repository (z. B. Cont
 
 ## Website Hosting
 
-GitHub hostet den Webserver und die Domain meiner Webseite. Ich kann dann per 
+GitHub hostet den Webserver und die Domain meiner Webseite. Ich kann dann per https://fls15.github.io/roball-website/ zugreifen.
+
+> später werde ich das mal auf meiner eigenen Domain hosten - das ist mit GitHub Pages auch kein Problem
