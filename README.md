@@ -31,4 +31,14 @@ Damit wird statischer HTML, CSS und JavaScript Code im `_site`-Unterverzeichnis 
 
 Anschliessend kann ich in meinem Browser auf die Webseite zugreifen: http://localhost:8080 
 
-## GitHub Pages Deployment
+# GitHub Pages Deployment
+
+* [Dokumentation](https://github.com/rothsandro/eleventy-notes/blob/main/Deployment/GitHub%20Pages.md)
+
+Ich habe das GitHub Repsoitory `public` gemacht, um die GitHub Pages kostenlos nutzen zu können. GitHub-Pages stellen einen von GitHub gehosteten Webserver bereit, auf dem meine Webseite im Internet erreichbar ist.
+
+Ich verwende GitHub-Workflows, um nach einer Änderung am Repository (z. B. Content-Änderungen) automatisch den HTML-Code neu zu generieren und auf die GitHub-Page zu deployen.
+
+## Website Hosting
+
+GitHub hostet den Webserver und die Domain meiner Webseite. Ich kann dann per 
