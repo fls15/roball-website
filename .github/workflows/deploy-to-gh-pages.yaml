@@ -1,4 +1,4 @@
-ame: Deploy to GitHub Pages (npm)
+name: Deploy to GitHub Pages (npm)
 
 on:
   workflow_dispatch:
