@@ -65,7 +65,19 @@ Alle Fussball-Events, die ich live im Stadion verfolgt habe. Seit 2024 verfasse 
 | ? | 04.09.17 | 20:45 | Fussball | Deutschland vs. Norwegen | 6:0 | <a href="https://maps.app.goo.gl/6H9dfur9AQB8uY1V7" target="_blank" rel="noopener noreferrer">Neckarstadion</a> | 
 | ? | 08.02.17 | 18:30 | Fussball | SV Sandhausen vs. FC Schalke | 1:4 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
 | ? | 28.12.19 | 19:30 | Eishockey | Kassel Huskies vs. Lausitzer Füchse | 1:5 | <a href="https://maps.app.goo.gl/6613GpkHNHhSyGsZ6" rel="noopener noreferrer">Nordhessen Arena</a> | 
-
+| ? | 03.12.16 | 15:30 | Fussball | TSG Hoffenheim vs. 1.FC Köln | 4:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
+| ? | 05.11.16 | 18:30 | Fussball | Eintracht Frankfurt vs. 1.FC Köln | 1:0 | <a href="https://maps.app.goo.gl/Q6ebDVXyjzfZKX418" target="_blank" rel="noopener noreferrer">Waldstadion</a> | 
+| ? | 03.08.16 | 18:00 | Fussball | KSV Hessen Kassel vs. Borussia Mönchengladbach | 1:6 | <a href="https://maps.app.goo.gl/CoSBhubJmZpqy9CT9" target="_blank" rel="noopener noreferrer">Auestadion Kassel</a> | 
+| ? | 08.05.16 | 15:30 | Fussball | SV Sandhausen vs. MSV Duisburg | 2:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| ? | 16.04.16 | 15:30 | Fussball | TSG Hoffenheim vs. Hertha BSC | 2:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
+| ? | 03.04.16 | 17:30 | Fussball | TSG Hoffenheim vs. 1.FC Köln | 1:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
+| ? | 23.01.16 | 15:30 | Fussball | TSG Hoffenheim vs. Bayer Leverkusen | 1:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
+| ? | 01.11.15 | 13:30 | Fussball | SV Sandhausen vs. RB Leipzig | 1:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| ? | 16.10.15 | 18:30 | Fussball | SV Sandhausen vs. Kaiserslautern | 1:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| ? | 02.08.15 | 15:30 | Fussball | SV Sandhausen vs. Union Berlin | 4:3 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| ? | 17.05.15 | 15:30 | Fussball | SV Sandhausen vs. Fortuna Düsseldorf | 0:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| ? | 17.04.15 | 18:30 | Fussball | SV Sandhausen vs. Karlsruher SC | 0:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| ? | 14.09.14 | 13:30 | Fussball | SV Sandhausen vs. Greuther Fürth | 1:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
 | 3 | 24.07.16 | 20:30 | Fussball | Frankreich vs. Italien U19 | 4:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena Sinsheim</a> | |
 | 2 | 26.04.14 | 15:30 | Fussball | TSG Hoffenheim vs. Eintracht Frankfurt | 0:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena Sinsheim</a> | |
 | 1 | 02.12.12 | 17:45 | Eishockey | Adler Mannheim vs. Nürnberg Ice Tigers | 6:3 | <a href="https://maps.app.goo.gl/wZF1R4qtyC7amf3N8" target="_blank" rel="noopener noreferrer">SAP-Arena Mannheim</a> | |
