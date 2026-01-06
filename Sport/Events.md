@@ -11,7 +11,7 @@ Alle Fussball-Events, die ich live im Stadion verfolgt habe. Seit 2024 verfasse 
         height="480">
 </iframe>
 
-# Spiele: 77, Grounds: 16
+# Spiele: 77, Grounds: 17
 
 | # | Datum | Uhrzeit | Sportart |  Spiel | Ergebnis | Ground | Bericht |
 |---|-------|---------|----------|--------|----------|--------|---------|
@@ -54,7 +54,7 @@ Alle Fussball-Events, die ich live im Stadion verfolgt habe. Seit 2024 verfasse 
 | 41 | 21.12.19 | 20:30 | Handball | Rhein-Neckar Löwen vs. Flensburg-Handewitt | 22:24 | <a href="https://maps.app.goo.gl/wZF1R4qtyC7amf3N8" target="_blank" rel="noopener noreferrer">SAP-Arena Mannheim</a> | 
 | 40 | 28.10.19 | 20:30 | Fussball | SV Sandhausen vs. Wehen Wiesbaden | 0:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
 | 39 | 30.08.19 | 18:30 | Fussball | SV Sandhausen vs. SV Darmstadt | 1:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
-| 38 | 05.08.23 | 19:00 | Fussball | SV Waldhof Mannheim vs. 1860 München | 4:0 | <a href="https://maps.app.goo.gl/9eSTCEVJwjoDAVQWA" target="_blank" rel="noopener noreferrer">Carl-Benz-Stadion Mannheim</a> | 
+| 38 | 05.08.19 | 19:00 | Fussball | SV Waldhof Mannheim vs. 1860 München | 4:0 | <a href="https://maps.app.goo.gl/9eSTCEVJwjoDAVQWA" target="_blank" rel="noopener noreferrer">Carl-Benz-Stadion Mannheim</a> | 
 | 37 | 02.08.19 | 18:30 | Fussball | SV Sandhausen vs. VfL Osnabrück | 0:1 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
 | 36 | 29.05.19 | 20:30 | Handball | Rhein-Neckar Löwen vs. Eulen Ludwigshafen | 26:29 | <a href="https://maps.app.goo.gl/wZF1R4qtyC7amf3N8" target="_blank" rel="noopener noreferrer">SAP-Arena Mannheim</a> | 
 | 35 | 12.05.19 | 15:30 | Fussball | SV Sandhausen vs. Arminia Bielefeld | 0:3 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
@@ -76,18 +76,18 @@ Alle Fussball-Events, die ich live im Stadion verfolgt habe. Seit 2024 verfasse 
 | 19 | 03.12.16 | 15:30 | Fussball | TSG Hoffenheim vs. 1.FC Köln | 4:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
 | 18 | 05.11.16 | 18:30 | Fussball | Eintracht Frankfurt vs. 1.FC Köln | 1:0 | <a href="https://maps.app.goo.gl/Q6ebDVXyjzfZKX418" target="_blank" rel="noopener noreferrer">Waldstadion</a> | 
 | 17 | 03.08.16 | 18:00 | Fussball | KSV Hessen Kassel vs. Borussia Mönchengladbach | 1:6 | <a href="https://maps.app.goo.gl/CoSBhubJmZpqy9CT9" target="_blank" rel="noopener noreferrer">Auestadion Kassel</a> | 
-| 16 | 08.05.16 | 15:30 | Fussball | SV Sandhausen vs. MSV Duisburg | 2:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
-| 15 | 16.04.16 | 15:30 | Fussball | TSG Hoffenheim vs. Hertha BSC | 2:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
-| 14 | 03.04.16 | 17:30 | Fussball | TSG Hoffenheim vs. 1.FC Köln | 1:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
-| 13 | 23.01.16 | 15:30 | Fussball | TSG Hoffenheim vs. Bayer Leverkusen | 1:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
-| 12 | 29.12.13 | 19:30 | Eishockey | Kassel Huskies vs. EC Bad Nauheim | 1:3 | <a href="https://maps.app.goo.gl/6613GpkHNHhSyGsZ6" rel="noopener noreferrer">Nordhessen Arena</a> | 
-| 11 | 01.11.15 | 13:30 | Fussball | SV Sandhausen vs. RB Leipzig | 1:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
-| 10 | 16.10.15 | 18:30 | Fussball | SV Sandhausen vs. Kaiserslautern | 1:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
-| 9 | 02.08.15 | 15:30 | Fussball | SV Sandhausen vs. Union Berlin | 4:3 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
-| 8 | 17.05.15 | 15:30 | Fussball | SV Sandhausen vs. Fortuna Düsseldorf | 0:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
-| 7 | 17.04.15 | 18:30 | Fussball | SV Sandhausen vs. Karlsruher SC | 0:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
-| 6 | 14.09.14 | 13:30 | Fussball | SV Sandhausen vs. Greuther Fürth | 1:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
-| 5 | 24.07.16 | 20:30 | Fussball | Frankreich vs. Italien U19 | 4:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena Sinsheim</a> | |
+| 16 | 24.07.16 | 20:30 | Fussball | Frankreich vs. Italien U19 | 4:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena Sinsheim</a> | |
+| 15 | 08.05.16 | 15:30 | Fussball | SV Sandhausen vs. MSV Duisburg | 2:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| 14 | 16.04.16 | 15:30 | Fussball | TSG Hoffenheim vs. Hertha BSC | 2:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
+| 13 | 03.04.16 | 17:30 | Fussball | TSG Hoffenheim vs. 1.FC Köln | 1:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
+| 12 | 23.01.16 | 15:30 | Fussball | TSG Hoffenheim vs. Bayer Leverkusen | 1:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
+| 11 | 28.12.15 | 19:30 | Eishockey | Kassel Huskies vs. EC Bad Nauheim | 1:3 | <a href="https://maps.app.goo.gl/6613GpkHNHhSyGsZ6" rel="noopener noreferrer">Nordhessen Arena</a> | 
+| 10 | 01.11.15 | 13:30 | Fussball | SV Sandhausen vs. RB Leipzig | 1:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| 9 | 16.10.15 | 18:30 | Fussball | SV Sandhausen vs. Kaiserslautern | 1:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| 8 | 02.08.15 | 15:30 | Fussball | SV Sandhausen vs. Union Berlin | 4:3 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| 7 | 17.05.15 | 15:30 | Fussball | SV Sandhausen vs. Fortuna Düsseldorf | 0:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| 6 | 17.04.15 | 18:30 | Fussball | SV Sandhausen vs. Karlsruher SC | 0:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
+| 5 | 14.09.14 | 13:30 | Fussball | SV Sandhausen vs. Greuther Fürth | 1:0 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
 | 4 | 26.04.14 | 15:30 | Fussball | TSG Hoffenheim vs. Eintracht Frankfurt | 0:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena Sinsheim</a> | |
 | 3 | 29.12.13 | 18:30 | Eishockey | Kassel Huskies vs. Herne EV | 6:3 | <a href="https://maps.app.goo.gl/6613GpkHNHhSyGsZ6" rel="noopener noreferrer">Nordhessen Arena</a> | 
 | 2 | 25.10.13 | 19:30 | Eishockey | Adler Mannheim vs. Kölner Haie | 2:5 | <a href="https://maps.app.goo.gl/wZF1R4qtyC7amf3N8" target="_blank" rel="noopener noreferrer">SAP-Arena Mannheim</a> |
