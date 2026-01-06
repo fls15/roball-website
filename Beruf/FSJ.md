@@ -16,7 +16,7 @@ Im Anschluss an die Schule habe ich ein Freiwilliges Soziales Jahr beim [ASC Neu
 * Mitglied im Kompetenzteam Kommunikation
   * [Spielberichte](#spielberichte)
 
-# Spielberichte
+# Meine verfassten Spielberichte
 
 | Datum | Mannschaft | Spiel | Ergebnis | Bericht |
 |-------|------------|-------|----------|---------|
