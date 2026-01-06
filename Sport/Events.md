@@ -4,7 +4,7 @@ sort: 3
 tags: [sport]
 ---
 
-Alle Fussball-Events, die ich live im Stadion verfolgt habe. Seit 2024 verfasse ich unter meinem Account "matchday_recap" [Spielberichte auf Instagram](https://www.instagram.com/matchday_recap).
+Alle Sport-Events, die ich live verfolgt habe. Seit 2024 verfasse ich unter meinem Account "matchday_recap" [Spielberichte auf Instagram](https://www.instagram.com/matchday_recap).
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1jWEF9BPoCuwU72PRSuOlLRcRuwiHB13a" 
         width="640" 
