@@ -54,6 +54,16 @@ export default defineConfig({
           },
         ],
       },
+      {
+        label: "Concept",
+        groups: [
+          {
+            query: createNotesQuery({
+              pattern: "^/Media-Strategy/",
+            }),
+          },
+        ],
+      },
     ],
   },
   tags: {
