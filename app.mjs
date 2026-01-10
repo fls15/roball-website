@@ -55,7 +55,7 @@ export default defineConfig({
         ],
       },
       {
-        label: "Concept",
+        label: "Projekte",
         groups: [
           {
             query: createNotesQuery({

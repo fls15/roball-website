@@ -4,7 +4,7 @@ sort: 1
 tags: [concept]
 ---
 
-# Online Media-Strategie
+# Online-Media-Strategie
 
 ## Miro Boards
 
