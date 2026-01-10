@@ -6,35 +6,20 @@ tags: [concept]
 
 # Online-Media Strategie
 
-<script>
-  function openMiroFullscreen() {
-    document.getElementById("miro-fullscreen").style.display = "block";
-  }
-
-  function closeMiroFullscreen() {
-    document.getElementById("miro-fullscreen").style.display = "none";
-  }
-</script>
+## New Style
 
 <!-- Normale Einbettung -->
 <div style="width:768px; height:432px; border:1px solid #ccc;">
-  <iframe
-    id="miro-embed"
-    src="https://miro.com/app/live-embed/BOARD-ID/"
-    width="100%"
-    height="100%"
-    frameborder="0"
-    allowfullscreen
-  ></iframe>
+  <iframe width="768" height="432px" src="https://miro.com/app/live-embed/uXjVGS0_Zbk=/?embedMode=view_only_without_ui&moveToViewport=-3945,-669,1523,854&embedId=100906621121" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 </div>
 
-<!-- Fullscreen Button -->
-<button onclick="openMiroFullscreen()" style="margin-top:10px;">
-  Fullscreen anzeigen
+<!-- Overlay Button -->
+<button onclick="openMiroOverlay()" style="margin-top:10px;">
+  Öffnen im Overlay
 </button>
 
-<!-- Fullscreen Overlay -->
-<div id="miro-fullscreen"
+<!-- Overlay Overlay -->
+<div id="miro-overlay"
      style="
        display:none;
        position:fixed;
@@ -48,8 +33,9 @@ tags: [concept]
        z-index:9999;
      ">
   <iframe width="100%" height="100%" src="https://miro.com/app/live-embed/uXjVGS0_Zbk=/?embedMode=view_only_without_ui&moveToViewport=-3945,-669,1523,854&embedId=100906621121" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
   <!-- Close Button -->
-  <button onclick="closeMiroFullscreen()"
+  <button onclick="closeMiroOverlay()"
           style="
             position:absolute;
             top:5px;
@@ -61,3 +47,12 @@ tags: [concept]
 </div>
 
 
+<script>
+  function openMiroOverlay() {
+    document.getElementById("miro-overlay").style.display = "block";
+  }
+
+  function closeMiroOverlay() {
+    document.getElementById("miro-overlay").style.display = "none";
+  }
+</script>
