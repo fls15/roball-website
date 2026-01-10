@@ -1,14 +1,10 @@
 ---
 templateEngineOverride: njk,md
 sort: 1
-tags: [concept]
+tags: [project]
 ---
 
-# Online-Media-Strategie
-
-## Miro Boards
-
-Ich habe meine Online-Strategie mit [Miro](https://miro.com) entworfen und geplant. Mit diesem beliebten Collaboration-Tools kann ich meinen Ideen vom Brainstorming bis zum fertigen Produkt freien Lauf lassen.
+Ich habe meine Online-Strategie mit [Miro](https://miro.com) entworfen und geplant.
 
 <!-- Normale -->
 <div class="miro-responsive">
