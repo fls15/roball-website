@@ -59,7 +59,7 @@ export default defineConfig({
         groups: [
           {
             query: createNotesQuery({
-              pattern: "^/Media-Strategy/",
+              pattern: "^/Projekte/",
             }),
           },
         ],

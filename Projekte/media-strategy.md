@@ -6,7 +6,9 @@ tags: [concept]
 
 # Online Media-Strategie
 
-Ich habe meine Online-Strategie mit [Miro](https://miro.com) entworfen und geplant.
+## Miro Boards
+
+Ich habe meine Online-Strategie mit [Miro](https://miro.com) entworfen und geplant. Mit diesem beliebten Collaboration-Tools kann ich meinen Ideen vom Brainstorming bis zum fertigen Produkt freien Lauf lassen.
 
 <!-- Normale -->
 <div class="miro-responsive">
