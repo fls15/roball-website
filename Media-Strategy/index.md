@@ -4,37 +4,29 @@ sort: 1
 tags: [concept]
 ---
 
-# Online-Media Strategie
+# Online Media-Strategie
 
-## New Style
+Ich habe meine Online-Strategie mit [Miro](https://miro.com) entworfen und geplant.
 
-<!-- Normale Einbettung -->
-<div style="width:768px; height:432px; border:1px solid #ccc;">
-  <iframe width="768" height="432px" src="https://miro.com/app/live-embed/uXjVGS0_Zbk=/?embedMode=view_only_without_ui&moveToViewport=-3945,-669,1523,854&embedId=100906621121" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<!-- Normale -->
+<div class="miro-responsive">
+  <iframe 
+    src="https://miro.com/app/live-embed/uXjVGS0_Zbk=/?embedMode=view_only_without_ui&moveToViewport=-3945,-669,1523,854&embedId=100906621121" 
+    frameborder="0" 
+    scrolling="no" 
+    allow="fullscreen; clipboard-read; clipboard-write" 
+    allowfullscreen>
+  </iframe>
 </div>
 
-<!-- Overlay Button -->
+<!-- Overlay
 <button onclick="openMiroOverlay()" style="margin-top:10px;">
   Öffnen im Overlay
 </button>
 
-<!-- Overlay Overlay -->
-<div id="miro-overlay"
-     style="
-       display:none;
-       position:fixed;
-       top:50%;
-       left:50%;
-       width:1024px;
-       height:768px;
-       transform:translate(-50%, -50%);
-       background:white;
-       border:2px solid #000;
-       z-index:9999;
-     ">
-  <iframe width="100%" height="100%" src="https://miro.com/app/live-embed/uXjVGS0_Zbk=/?embedMode=view_only_without_ui&moveToViewport=-3945,-669,1523,854&embedId=100906621121" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<div id="miro-overlay" class="miro-responsive">
+  <iframe src="https://miro.com/app/live-embed/uXjVGS0_Zbk=/?embedMode=view_only_without_ui&moveToViewport=-3945,-669,1523,854&embedId=100906621121" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-  <!-- Close Button -->
   <button onclick="closeMiroOverlay()"
           style="
             position:absolute;
@@ -45,7 +37,26 @@ tags: [concept]
     X
   </button>
 </div>
+ -->
 
+
+<style>
+   .miro-responsive { 
+      position: relative; 
+      width: 100%; 
+      padding-bottom: 56.25%; /* 16:9 Verhältnis */ 
+      height: 0; 
+      overflow: hidden; 
+    }
+    .miro-responsive iframe { 
+      position: absolute; 
+      top: 0; 
+      left: 0; 
+      width: 100%; 
+      height: 100%; 
+      border: 0; 
+    }
+</style>
 
 <script>
   function openMiroOverlay() {
