@@ -6,10 +6,7 @@ tags: [sport]
 
 Alle Sport-Events, die ich live verfolgt habe. Seit 2024 verfasse ich unter meinem Account "matchday_recap" [Spielberichte auf Instagram](https://www.instagram.com/matchday_recap).
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1jWEF9BPoCuwU72PRSuOlLRcRuwiHB13a" 
-        width="640" 
-        height="480">
-</iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1j0otD3Ltqbq57I1ms_1YRkT6yxpd8gA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 # Spiele: 78, Grounds: 17
 
