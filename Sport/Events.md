@@ -8,10 +8,11 @@ Alle Sport-Events, die ich live verfolgt habe. Seit 2024 verfasse ich unter mein
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1j0otD3Ltqbq57I1ms_1YRkT6yxpd8gA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-# Spiele: 78, Grounds: 17
+# Spiele: 79, Grounds: 18
 
 | # | Datum | Uhrzeit | Sportart |  Spiel | Ergebnis | Ground | Bericht |
 |---|-------|---------|----------|--------|----------|--------|---------|
+| 79 | 17.01.26 | 14:00 | Fussball | SC Verl vs. SV Waldhof Mannheim | 5:2 | <a href="https://maps.app.goo.gl/T7gstSHXowD8JX6T6" target="_blank" rel="noopener noreferrer">Sportclub-Arena</a> | <a href="https://www.instagram.com/p/DTnrJc6DQu5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=" target="_blank" rel="noopener noreferrer">Instagram</a> |
 | 78 | 14.12.25 | 16:30 | Fussball | Jahn Regensbug vs. SV Waldhof Mannheim | 3:0 | <a href="https://maps.app.goo.gl/oo692GfDfkyuiZ5R7" target="_blank" rel="noopener noreferrer">Jahnstadion Regensburg</a> | <a href="https://www.instagram.com/matchday_recap/p/DSSYKQqjEFI/" target="_blank" rel="noopener noreferrer">Instagram</a> |
 | 77 | 07.12.25 | 13:30 | Fussball | SV Waldhof Mannheim vs. 1. FC Saarbrücken | 2:1 | <a href="https://maps.app.goo.gl/9eSTCEVJwjoDAVQWA" target="_blank" rel="noopener noreferrer">Carl-Benz-Stadion Mannheim</a> | <a href="https://www.instagram.com/matchday_recap/p/DR_-mGAjdZE/" target="_blank" rel="noopener noreferrer">Instagram</a> 
 | 76 | 21.11.25 | 19:30 | Eishockey | Adler Mannheim vs. Dresdner Eislöwen | 3:1 | <a href="https://maps.app.goo.gl/wZF1R4qtyC7amf3N8" target="_blank" rel="noopener noreferrer">SAP-Arena Mannheim</a> | <a href="https://www.instagram.com/p/DRXX65RjPi_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">Instagram</a> |
