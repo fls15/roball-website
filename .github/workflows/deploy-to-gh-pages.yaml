@@ -38,6 +38,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: .app/dist
+      - run: ls -al .app/dist/
 
   deploy:
     name: Deploy
