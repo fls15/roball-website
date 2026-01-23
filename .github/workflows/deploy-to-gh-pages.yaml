@@ -16,6 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 # Needed to deploy to GitHub pages subdomain. (E.g. `your-username.github.io/eleventy-notes/`)
+# ... when we switched to a GitHub-Organization (fls15.github.io/roball-website) we had to remove the ELEVENTY_NOTES_PATH_PREFIX
 #env:
 #  ELEVENTY_NOTES_PATH_PREFIX: "roball-website"
 
