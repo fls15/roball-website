@@ -8,10 +8,11 @@ Alle Sport-Events, die ich live verfolgt habe. Seit 2024 verfasse ich unter mein
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1j0otD3Ltqbq57I1ms_1YRkT6yxpd8gA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-# Spiele: 81, Grounds: 18
+# Spiele: 82, Grounds: 19
 
 | # | Datum | Uhrzeit | Sportart |  Spiel | Ergebnis | Ground | Bericht |
 |---|-------|---------|----------|--------|----------|--------|---------|
+| 82 | 20.02.26 | 19:00 | Fussball | VfB Stuttgart ll vs. SV Waldhof Mannheim | 3:1 | <a href="https://maps.app.goo.gl/eHW49cYiDnL1Sj18A" target="_blank" rel="noopener noreferrer">WIR-machen-Druck Arena</a> | <a href="https://www.instagram.com/p/DVBZhpYjQa8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">Instagram</a> 
 | 81 | 06.02.26 | 19:00 | Fussball | SV Waldhof Mannheim vs. SSV Ulm | 2:1 | <a href="https://maps.app.goo.gl/9eSTCEVJwjoDAVQWA" target="_blank" rel="noopener noreferrer">Carl-Benz-Stadion Mannheim</a> | <a href="https://www.instagram.com/p/DUdYQOJjeES/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">Instagram</a> 
 | 80 | 25.01.26 | 13:30 | Fussball | SV Waldhof Mannheim vs. Hansa Rostock | 0:4 | <a href="https://maps.app.goo.gl/9eSTCEVJwjoDAVQWA" target="_blank" rel="noopener noreferrer">Carl-Benz-Stadion Mannheim</a> | <a href="https://www.instagram.com/p/DT8hIN5Dcsc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">Instagram</a> 
 | 79 | 17.01.26 | 14:00 | Fussball | SC Verl vs. SV Waldhof Mannheim | 5:2 | <a href="https://maps.app.goo.gl/T7gstSHXowD8JX6T6" target="_blank" rel="noopener noreferrer">Sportclub-Arena</a> | <a href="https://www.instagram.com/p/DTnrJc6DQu5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=" target="_blank" rel="noopener noreferrer">Instagram</a> |
