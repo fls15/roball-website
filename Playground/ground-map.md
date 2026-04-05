@@ -24,11 +24,11 @@ Alle Spielorte, die ich live besucht habe. Daten werden in [`data/grounds.json`]
   }).addTo(map);
 
   const stadiumIcon = L.divIcon({
-    html: '🏟️',
+    html: '<span style="font-size:48px;line-height:1;">🏟️</span>',
     className: '',
-    iconSize: [28, 28],
-    iconAnchor: [14, 14],
-    popupAnchor: [0, -14]
+    iconSize: [64, 64],
+    iconAnchor: [32, 32],
+    popupAnchor: [0, -32]
   });
 
   const markers = grounds.map(g => {
