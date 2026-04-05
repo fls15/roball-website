@@ -10,7 +10,7 @@ export default defineConfig({
     openInNewTab: true,
   },
   staticAssets: {
-    paths: { "public/": "/" },
+    paths: { "public/": "/", "data/": "/data/" },
   },
   ignores: ["README.md", "CHANGELOG.md"],
   customProperties: {
@@ -60,6 +60,16 @@ export default defineConfig({
           {
             query: createNotesQuery({
               pattern: "^/Projekte/",
+            }),
+          },
+        ],
+      },
+      {
+        label: "Playground",
+        groups: [
+          {
+            query: createNotesQuery({
+              pattern: "^/Playground/",
             }),
           },
         ],

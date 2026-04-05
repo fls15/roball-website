@@ -8,7 +8,7 @@ Alle Sport-Events, die ich live verfolgt habe. Seit 2024 verfasse ich unter mein
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1j0otD3Ltqbq57I1ms_1YRkT6yxpd8gA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-# Spiele: 85, Grounds: 22
+# Spiele: 85, Grounds: 20
 
 | # | Datum | Uhrzeit | Sportart |  Spiel | Ergebnis | Ground | Bericht |
 |---|-------|---------|----------|--------|----------|--------|---------|
@@ -81,7 +81,7 @@ Alle Sport-Events, die ich live verfolgt habe. Seit 2024 verfasse ich unter mein
 | 19 | 03.12.16 | 15:30 | Fussball | TSG Hoffenheim vs. 1.FC Köln | 4:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
 | 18 | 05.11.16 | 18:30 | Fussball | Eintracht Frankfurt vs. 1.FC Köln | 1:0 | <a href="https://maps.app.goo.gl/Q6ebDVXyjzfZKX418" target="_blank" rel="noopener noreferrer">Waldstadion</a> | 
 | 17 | 03.08.16 | 18:00 | Fussball | KSV Hessen Kassel vs. Borussia Mönchengladbach | 1:6 | <a href="https://maps.app.goo.gl/CoSBhubJmZpqy9CT9" target="_blank" rel="noopener noreferrer">Auestadion Kassel</a> | 
-| 16 | 24.07.16 | 20:30 | Fussball | Frankreich vs. Italien U19 | 4:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena Sinsheim</a> | |
+| 16 | 24.07.16 | 20:30 | Fussball | Frankreich vs. Italien U19 | 4:0 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | |
 | 15 | 08.05.16 | 15:30 | Fussball | SV Sandhausen vs. MSV Duisburg | 2:2 | <a href="https://maps.app.goo.gl/jRWiLTbJviedz1zcA" target="_blank" rel="noopener noreferrer">Stadion am Hardtwald</a> | 
 | 14 | 16.04.16 | 15:30 | Fussball | TSG Hoffenheim vs. Hertha BSC | 2:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
 | 13 | 03.04.16 | 17:30 | Fussball | TSG Hoffenheim vs. 1.FC Köln | 1:1 | <a href="https://maps.app.goo.gl/DkRaMA25orMtTsF1A" target="_blank" rel="noopener noreferrer">Wirsol Rhein-Neckar-Arena</a> | 
