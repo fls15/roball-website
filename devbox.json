@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.17.0/.schema/devbox.schema.json",
+  "packages": [
+    "nodejs@20"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'roball-website dev environment ready'",
+      "echo 'Run: npm install --prefix .app && npm start --prefix .app'"
+    ],
+    "scripts": {
+      "install": "npm install --prefix .app",
+      "start": "npm start --prefix .app",
+      "build": "npm run build --prefix .app"
+    }
+  }
+}
