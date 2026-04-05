@@ -7,6 +7,9 @@ All starts with a Event decribed by
 - competitors
 - sports type (footbal, ice-hockey, ...)
 - optional: a link to instagram-url that represents a report (aka "Bericht").
+like that:
+
+"4.4.2026 Fussball - 1860 München vs. SV Waldhof Mannheim - Städtisches Stadion a.d. Grünwalder Straße - https://www.instagram.com/matchday_recap/p/DWwGeqQDY9F/"
 
 Process::
 Step 1: check the location of the event by stadium name via website search (this information is not part of your LLM).
