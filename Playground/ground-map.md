@@ -23,8 +23,16 @@ Alle Spielorte, die ich live besucht habe. Daten werden in [`data/grounds.json`]
     maxZoom: 18
   }).addTo(map);
 
+  const stadiumIcon = L.divIcon({
+    html: '🏟️',
+    className: '',
+    iconSize: [28, 28],
+    iconAnchor: [14, 14],
+    popupAnchor: [0, -14]
+  });
+
   const markers = grounds.map(g => {
-    return L.marker([g.lat, g.lng])
+    return L.marker([g.lat, g.lng], { icon: stadiumIcon })
       .addTo(map)
       .bindPopup(`<strong>${g.name}</strong>`);
   });
