@@ -14,7 +14,7 @@ All build tooling lives in `.app/`. Run these commands from that directory:
 cd .app
 npm install       # first time only
 npm start         # dev server at http://localhost:8080 (watches CSS/JS + serves with 11ty)
-npm run build     # production build to _site/
+npm run build     # production build to .app/dist/
 ```
 
 ## Architecture
@@ -49,3 +49,13 @@ Sidebar sections are defined in `app.mjs` and match content by URL pattern (`^/s
 - To open a link in a new tab, use raw HTML: `<a href="..." target="_blank" rel="noopener noreferrer">text</a>` — standard Markdown links cannot do this.
 - To embed a YouTube video, use the `<iframe>` snippet (see README.md).
 - Static assets (images, etc.) go in `public/` and are served from `/`.
+
+## Deployment
+
+The site is deployed automatically via **GitHub Actions** (`.github/workflows/deploy-to-gh-pages.yaml`) on every push to `main`:
+
+1. `npm install --prefix .app` — install dependencies
+2. `npm run build --prefix .app` — build site into `.app/dist/`
+3. Upload `.app/dist/` as a GitHub Pages artifact and deploy it
+
+The workflow can also be triggered manually via `workflow_dispatch`. No path prefix is needed because the site is hosted under a GitHub Organization (`fls15.github.io`), not a personal user subdirectory.
