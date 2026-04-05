@@ -8,6 +8,19 @@ A personal website ("roball inside") built with [Eleventy](https://www.11ty.dev/
 
 ## Local development
 
+### With devbox (recommended)
+
+A `devbox.json` at the repo root pins Node.js 22 and defines convenience scripts. Enter the dev shell once, then use the scripts:
+
+```bash
+devbox shell          # enter the isolated environment (installs Node 20 if needed)
+devbox run install    # npm install --prefix .app (first time only)
+devbox run start      # dev server at http://localhost:8080
+devbox run build      # production build to .app/dist/
+```
+
+### Without devbox
+
 All build tooling lives in `.app/`. Run these commands from that directory:
 
 ```bash
