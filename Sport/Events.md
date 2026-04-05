@@ -6,7 +6,41 @@ tags: [sport]
 
 Alle Sport-Events, die ich live verfolgt habe. Seit 2024 verfasse ich unter meinem Account <a href="https://www.instagram.com/matchday_recap" target="_blank" rel="noopener noreferrer">matchday_recap</a> Spielberichte auf Instagram.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1j0otD3Ltqbq57I1ms_1YRkT6yxpd8gA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+Alle Spielorte, die ich live besucht habe. Daten werden in [`data/grounds.json`](https://github.com/fls15/roball-website/blob/main/data/grounds.json) gepflegt.
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+<div id="ground-map" style="height:520px;border-radius:6px;margin-top:1rem;"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+(async () => {
+  const res = await fetch('/data/grounds.json');
+  const grounds = await res.json();
+
+  const map = L.map('ground-map');
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    maxZoom: 19
+  }).addTo(map);
+
+  const stadiumIcon = L.divIcon({
+    html: '<span style="font-size:40px;line-height:1;">🏟️</span>',
+    className: '',
+    iconSize: [40, 40],
+    iconAnchor: [20, 20],
+    popupAnchor: [0, -20]
+  });
+
+  const markers = grounds.map(g => {
+    return L.marker([g.lat, g.lng], { icon: stadiumIcon })
+      .addTo(map)
+      .bindPopup(`<strong>${g.name}</strong>`);
+  });
+
+  map.fitBounds(L.featureGroup(markers).getBounds().pad(0.1));
+})();
+</script>
 
 # Spiele: 85, Grounds: 20
 
