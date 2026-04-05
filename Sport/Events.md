@@ -19,9 +19,9 @@ Alle Spielorte, die ich live besucht habe. Daten werden in [`data/grounds.json`]
   const grounds = await res.json();
 
   const map = L.map('ground-map');
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-    maxZoom: 19
+  L.tileLayer('https://tile.openstreetmap.de/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende',
+    maxZoom: 18
   }).addTo(map);
 
   const stadiumIcon = L.divIcon({
