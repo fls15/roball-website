@@ -40,6 +40,10 @@ Pages use YAML frontmatter. Relevant fields:
 
 Sidebar sections are defined in `app.mjs` and match content by URL pattern (`^/sport/`, `^/beruf/`, `^/Projekte/`). Note the case sensitivity: `Projekte` is capitalized in the filesystem and the pattern.
 
+## External accounts & infrastructure
+
+- **Instagram:** Match reports are published under the account [`matchday_recap`](https://www.instagram.com/matchday_recap) — link posts in `Sport/Events.md` using the `<a href="...">Instagram</a>` pattern.
+
 ## Markdown notes
 
 - To open a link in a new tab, use raw HTML: `<a href="..." target="_blank" rel="noopener noreferrer">text</a>` — standard Markdown links cannot do this.
