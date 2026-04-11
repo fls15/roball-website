@@ -42,10 +42,11 @@ Alle Spielorte, die ich live besucht habe. Daten werden in [`data/grounds.json`]
 })();
 </script>
 
-# Spiele: 85, Grounds: 20
+# Spiele: 86, Grounds: 20
 
 | # | Datum | Uhrzeit | Sportart |  Spiel | Ergebnis | Ground | Bericht |
 |---|-------|---------|----------|--------|----------|--------|---------|
+| 86 | 07.04.26 | 19:00 | Fussball | SV Waldhof Mannheim vs. TSG Hoffenheim II | 1:1 | <a href="https://maps.app.goo.gl/9eSTCEVJwjoDAVQWA" target="_blank" rel="noopener noreferrer">Carl-Benz-Stadion Mannheim</a> | <a href="https://www.instagram.com/matchday_recap/p/DW4BcFyDYKA/" target="_blank" rel="noopener noreferrer">Instagram</a> |
 | 85 | 04.04.26 | 14:00 | Fussball | TSV 1860 München vs. SV Waldhof Mannheim | 1:1 | <a href="https://www.google.com/maps/search/?api=1&query=Gr%C3%BCnwalder+Stadion,+M%C3%BCnchen,+BY&query_place_id=ChIJO2ZXRRLfnUcRCMsIUnMgyTo" target="_blank" rel="noopener noreferrer">Grünwalder Stadion</a> | <a href="https://www.instagram.com/p/DWwGeqQDY9F/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">Instagram</a> |
 | 84 | 28.03.26 | 15:00 | Fussball | 1.FC Bruchsal vs. SV Waldhof Mannheim | 1:4 | <a href="https://maps.app.goo.gl/Fs612mdTFAijaaCd7" target="_blank" rel="noopener noreferrer">Städtisches Stadion</a> | <a href="https://www.instagram.com/p/DWb9C4bDZmf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">Instagram</a> 
 | 83 | 01.03.26 | 13:30 | Fussball | SV Waldhof Mannheim vs. Alemannia Aachen | 2:1 | <a href="https://maps.app.goo.gl/9eSTCEVJwjoDAVQWA" target="_blank" rel="noopener noreferrer">Carl-Benz-Stadion Mannheim</a> | <a href="https://www.instagram.com/p/DVWRlPJjGN4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">Instagram</a> 
