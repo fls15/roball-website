@@ -63,6 +63,8 @@ Insert **after** line 7 (`Meine selbst verfassten Berichte.`), before the first 
 **Heading format:** `# {DD}. {Monat} {YYYY} - {Sport} - {Heim vs. Gast} {X:X}`  
 Use the full German month name (e.g. `April`, `März`, `Oktober`) and 4-digit year.
 
+**Important:** Always use the canonical Instagram URL format `https://www.instagram.com/p/{POST_ID}/` — never include the username in the path (e.g. never `instagram.com/matchday_recap/p/...`).
+
 **Block to insert:**
 ```
 # {DD}. {Monat} {YYYY} - {Sport} - {Heim vs. Gast} {X:X}
